@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainApplication",
+            "request": "launch",
+            "mainClass": "com.mechalikh.pureedgesim.MainApplication",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example1",
+            "request": "launch",
+            "mainClass": "examples.Example1",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example2",
+            "request": "launch",
+            "mainClass": "examples.Example2",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example3",
+            "request": "launch",
+            "mainClass": "examples.Example3",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example4",
+            "request": "launch",
+            "mainClass": "examples.Example4",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example5",
+            "request": "launch",
+            "mainClass": "examples.Example5",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example6",
+            "request": "launch",
+            "mainClass": "examples.Example6",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example7",
+            "request": "launch",
+            "mainClass": "examples.Example7",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example8",
+            "request": "launch",
+            "mainClass": "examples.Example8",
+            "projectName": "PureEdgeSim"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example9",
+            "request": "launch",
+            "mainClass": "examples.Example9",
+            "projectName": "PureEdgeSim"
+        }
+    ]
+}
